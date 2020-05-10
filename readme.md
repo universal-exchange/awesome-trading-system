@@ -24,8 +24,10 @@ Popular trading system collection.
 | pyalgotrade | 2876 | Python | https://github.com/gbeced/pyalgotrade |
 | finmarketpy | 2168 | Python | https://github.com/cuemacro/finmarketpy |
 | crypto-signal | 2034 | Python | https://github.com/CryptoSignal/crypto-signal |
+| kungfu | 1841 | C++/C/Python | https://github.com/taurusai/kungfu |
 | Krypto-trading-bot | 1792 | C++ | https://github.com/ctubio/Krypto-trading-bot |
 | pytrader | 1787 | Python | https://github.com/owocki/pytrader |
+| tqsdk-python | 1278 | Python | https://github.com/shinnytech/tqsdk-python |
 
 ### Trading System Brief
 - #### abu
@@ -42,6 +44,8 @@ Popular trading system collection.
   - A bitcoin trading bot written in node.
 - #### Krypto-trading-bot
   - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++.
+- #### kungfu
+  - Kungfu Trader.
 - #### Lean
   - Algorithmic Trading Engine by QuantConnect (C#, Python, F#).
 - #### pyalgotrade
@@ -54,6 +58,8 @@ Popular trading system collection.
   - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities.
 - #### StockSharp
   - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins and options).
+- #### tqsdk-python
+  - 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易。
 - #### tribeca
   - A high frequency, market making cryptocurrency trading platform in node.js.
 - #### trump2cash
@@ -68,17 +74,6 @@ Popular trading system collection.
   - A command-line cryptocurrency trading bot using Node.js and MongoDB.
 - #### zipline
   - A Pythonic Algorithmic Trading Library.
-
-
-
-
-
-
-
-
-
-
-
 
 ### Contact Information
 QQ-Group: 782576812, WeChat: ustc_xrd, E-mail: github@universalexchange.com
