@@ -28,6 +28,7 @@ Popular trading system collection.
 | Krypto-trading-bot | 1792 | C++ | https://github.com/ctubio/Krypto-trading-bot |
 | pytrader | 1787 | Python | https://github.com/owocki/pytrader |
 | tqsdk-python | 1278 | Python | https://github.com/shinnytech/tqsdk-python |
+| OpenBacktesting | 1 | Python | https://github.com/lucidcog/openbacktesting |
 
 ### Trading System Brief
 - #### abu
@@ -48,6 +49,8 @@ Popular trading system collection.
   - Kungfu Trader.
 - #### Lean
   - Algorithmic Trading Engine by QuantConnect (C#, Python, F#).
+- #### OpenBacktesting
+  - Python framework for single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization.
 - #### pyalgotrade
   - Python Algorithmic Trading Library.
 - #### pytrader
